@@ -1,3 +1,5 @@
+Canni: Commited what I have for now. Still working on the highest_rated and Class.most_expensive, but also looking forward on the review. Just to make sure I completely understand.
+
 # Object Relations Practice
 
 We have four models: `Recipe`, `Restaurant`, `RestuarantOwner` and `MenuItem`. 
